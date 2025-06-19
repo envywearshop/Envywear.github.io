@@ -1,0 +1,33 @@
+body {
+  margin: 0;
+  font-family: 'Poppins', sans-serif;
+  background-color: #FAF9F6;
+  color: #0A0A0A;
+}
+header {
+  background: #005F3F;
+  color: white;
+  text-align: center;
+  padding: 30px 10px;
+}
+.tagline {
+  font-style: italic;
+  color: #C9B037;
+}
+.hero {
+  text-align: center;
+  margin: 50px;
+}
+.btn {
+  background: #005F3F;
+  color: white;
+  padding: 10px 20px;
+  text-decoration: none;
+  border-radius: 5px;
+}
+footer {
+  text-align: center;
+  padding: 20px;
+  background: #0A0A0A;
+  color: white;
+}
